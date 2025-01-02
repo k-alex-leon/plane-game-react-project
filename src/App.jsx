@@ -10,7 +10,7 @@ import { Targets } from "./Targets";
 import { EffectComposer, HueSaturation } from "@react-three/postprocessing";
 import { BlendFunction } from "postprocessing";
 import { MotionBlur } from "./MotionBlur";
-import ControlsView from "./ControlsView";
+// import ControlsView from "./ControlsView";
 
 
 function App() {
