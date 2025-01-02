@@ -5,7 +5,7 @@
   "homepage": "https://k-alex-leon.github.io/plane-game-react-project/",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "vite build",
     "deploy": "gh-pages -d dist -f",
     "dev": "vite",
     "build": "vite build",
